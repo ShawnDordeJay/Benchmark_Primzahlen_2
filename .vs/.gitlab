@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 577,
+    "Username": "fhs41627",
+    "Name": "Igor Jerinic",
+    "Email": "ijerinic.itsb-b2017@fh-salzburg.ac.at",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/89cbf9e1febf266fa1d35decb6aeb268?s=80&d=identicon",
+    "PrivateToken": "bce3ff7448edc85e39562599531468a7b0339145fbb5d93b6bb271b7e3473eed",
+    "Host": "https://its-git.fh-salzburg.ac.at/",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
